@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\esi-docs"
+		},
+		{
+			"path": "..\\SDE-farPOC"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"driver": "SQLite",
+				"name": "Farside",
+				"database": "${workspaceFolder:SDE-farPOC}/db/farside.db"
+			},
+			{
+				"previewLimit": 50,
+				"driver": "SQLite",
+				"name": "sde-latest",
+				"database": "${workspaceFolder:SDE-farPOC}/db/sqlite-latest.sqlite"
+			}
+		]
+	}
+}
