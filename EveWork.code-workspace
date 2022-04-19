@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "..\\SDE-farPOC"
+		},
+		{
+			"path": "..\\PySiteConnectivityChecker"
 		}
 	],
 	"settings": {
