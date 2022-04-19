@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "..\\PySiteConnectivityChecker"
+		},
+		{
+			"path": "..\\PyDesktopPOC"
 		}
 	],
 	"settings": {
