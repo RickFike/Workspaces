@@ -14,6 +14,9 @@
 		},
 		{
 			"path": "..\\PyDesktopPOC"
+		},
+		{
+			"path": "..\\15-minute-apps"
 		}
 	],
 	"settings": {
