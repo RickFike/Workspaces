@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "..\\15-minute-apps"
+		},
+		{
+			"path": "..\\PyTkinter-Desktop-POC"
 		}
 	],
 	"settings": {
