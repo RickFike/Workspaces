@@ -10,13 +10,7 @@
 			"path": "..\\SDE-farPOC"
 		},
 		{
-			"path": "..\\PySiteConnectivityChecker"
-		},
-		{
 			"path": "..\\PyDesktopPOC"
-		},
-		{
-			"path": "..\\15-minute-apps"
 		}
 	],
 	"settings": {
