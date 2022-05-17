@@ -27,6 +27,13 @@
 				"name": "sde-latest",
 				"database": "${workspaceFolder:SDE-farPOC}/db/sqlite-latest.sqlite"
 			}
+		],
+		"cSpell.words": [
+			"venv"
+		],
+		"cSpell.ignoreWords": [
+			"ensurepip",
+			"wapp"
 		]
 	}
 }
