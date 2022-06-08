@@ -4,13 +4,7 @@
 			"path": "."
 		},
 		{
-			"path": "..\\esi-docs"
-		},
-		{
-			"path": "..\\SDE-farPOC"
-		},
-		{
-			"path": "..\\FARTrader"
+			"path": "..\\ToDoDjango"
 		}
 	],
 	"settings": {
@@ -33,9 +27,17 @@
 		],
 		"cSpell.ignoreWords": [
 			"Farlander",
+			"PKCE",
+			"characterstats",
+			"dotenv",
 			"ensurepip",
+			"eveonline",
 			"levelname",
-			"wapp"
+			"sqlalchemy",
+			"todos",
+			"unxq",
+			"wapp",
+			"wtforms"
 		]
 	}
 }
